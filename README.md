@@ -16,13 +16,18 @@
 ### Project Overview
 This project analyzes data from LinkedIn to extract insights about user demographics, job trends, connections, companies, invitation sent, invitation received, reactions and other relevant topics.
 
+![Linkedin Analysis](https://github.com/lumanex/Linkedin_Analysis/assets/112433135/767207ed-d83e-4f1d-a772-319bd7411c56)
+
+
 ### Data Source
 The data for this project was collected from the LinkedIn Private Data.
+
 
 ### Tools and Techniques
 - Excel for data cleaning and manipulation
 - PostgreSQL for data analysis
 - Power BI for data visualization and creating report
+
 
 ### Data preparation 
 
@@ -32,6 +37,9 @@ The preparation phase , i performed the following tasks:
 3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
+
+EDA involves exploring the data sets to answer the key questions such as :
+
 - what is the total connection by month
 - what is the total connection by company
 - what is the total connection by position
@@ -48,6 +56,9 @@ This include some codes using PostgreSQL
 ```sql
 SELECT count(connection) AS connections
 FROM DB_Linkedin;
+
+SELECT count(reactions) AS Reactions
+FROM DB_Linkedin
 
 ```
 
@@ -74,7 +85,11 @@ i had to delete unwanted columns ,null cells that would have affected my analysi
 
 1. SQL for Data Analysis
 2. [youtube](https://www.youtube.com/results?search_query=alex+the+analyst)
-3. 
+
+😃
+💻
+🇳🇬
+ 
 
 
 
