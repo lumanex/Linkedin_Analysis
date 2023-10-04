@@ -75,7 +75,7 @@ The following insights were extracted from the data:
 
 ### Conclusion
 
-The results of this project provide valuable insights into the LinkedIn usage. These insights can be used by to develop and imporve engagements, traffic more effective marketing and job search strategies.
+The results of this project provide valuable insights into the LinkedIn usage. These insights can be used to develop and imporve engagements, traffic more effective marketing and job search strategies.
 
 ### Limitations
 
